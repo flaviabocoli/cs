@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+>>ALTERAÇÃO IMPOSSÍVEL DE DESFAZER<<
+
 typedef struct ListNode
 {
     int Value;
